@@ -1,10 +1,10 @@
 <h1>CCNY Random User Generator</h1>
 <br />
 This package is meant to generate random students from random colleges across the U.S. Although it generates random colleges, the courses, clubs and majors are from City University of New York City College. 
-<br />
+<br /><br />
 <strong><em>createRandomUser</em></strong><br />
-    Generates a random User (Object) with the following attributes:
-    {
+    Generates a random User (Object) with the following attributes:<br />
+    {<br />
     name: First and Last Name with space in between (String)<br/>
     race: Race of the user (White, Black, Asian, API, Two or more Races Hispanic) (String)<br/>
     email: Email of the user (String)<br/>
