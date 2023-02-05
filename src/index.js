@@ -28,7 +28,6 @@ const createRandomUser = () => {
         majors: generateMajors(1,2),
         minors: generateMajors(0,2),
         courses: generateCourses(3, 6),
-        courses: generateCourses(3, 6),
         gender: generateGender(),
         sexualOrientation: generateSexualOrientation(),
         gpa: generateGPA(),
