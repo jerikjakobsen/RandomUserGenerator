@@ -1,5 +1,5 @@
 {
-  "name": "randomusergenerator",
+  "name": "ccnyrandomusergenerator",
   "version": "1.0.0",
   "description": "Generates random students (with ccny courses, majors, minors and clubs).",
   "main": "src/index.js",
