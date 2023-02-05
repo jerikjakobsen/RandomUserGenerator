@@ -44,8 +44,6 @@ const createNRandomUsers = (n) => {
     return res
 }
 
-console.log(createNRandomUsers(10))
-
 module.exports = {
     createRandomUser,
     createNRandomUsers
