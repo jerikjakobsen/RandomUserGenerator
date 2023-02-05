@@ -1,0 +1,402 @@
+[
+ {
+   "Name": "American Studies",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02123 - AMST-BA",
+   "HEGIS Code": "0313.00",
+   "CIP Code": 5.0102
+ },
+ {
+   "Name": "Anthropology",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02272 - ANTH-BA",
+   "HEGIS Code": "2202.00",
+   "CIP Code": 45.0201
+ },
+ {
+   "Name": "Anthropology",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 45.0201
+ },
+ {
+   "Name": "Applied Mathematics",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "86474 - MTHSAP-BS",
+   "HEGIS Code": "1703.00",
+   "CIP Code": 27.0301
+ },
+ {
+   "Name": "Architecture",
+   "Degree": "BARCH - Bachelor of Architecture",
+   "Type": "Major",
+   "NYSED Code": "02118 - ARCH-BARCH",
+   "HEGIS Code": "0202.00",
+   "CIP Code": 4.0902
+ },
+ {
+   "Name": "Architecture",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "02119 - ARCH-BS",
+   "HEGIS Code": "0202.00",
+   "CIP Code": 4.0902
+ },
+ {
+   "Name": "Area Studies: Asian",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Area Studies: Asian - Latin American and Latino - Russian",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02125 - ASALARU-BA",
+   "HEGIS Code": "0399.00",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Area Studies: Black",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Area Studies: Black-Puerto Rican-Jewish",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02124 - ASBPRJW-BA",
+   "HEGIS Code": "0399.00",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Area Studies: Jewish",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Area Studies: Latin America",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 5.0299
+ },
+ {
+   "Name": "Art",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 50.0702
+ },
+ {
+   "Name": "Art",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02194 - ART-BA",
+   "HEGIS Code": "1002.00",
+   "CIP Code": 50.0702
+ },
+ {
+   "Name": "Art Teacher, All Grades",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "25925 - ARTK12U-BA",
+   "HEGIS Code": "0831.00",
+   "CIP Code": 13.1302
+ },
+ {
+   "Name": "Bilingual Childhood Education",
+   "Degree": "BSED - Bachelor of Science in Education",
+   "Type": "Major",
+   "NYSED Code": "28377 - BCEJ-BSED",
+   "HEGIS Code": "0802.00",
+   "CIP Code": 13.0201
+ },
+ {
+   "Name": "Bilingual Childhood Education, Grades 1-6",
+   "Degree": "BSED - Bachelor of Science in Education",
+   "Type": "Major",
+   "NYSED Code": "25926 - BCEU-BSED",
+   "HEGIS Code": "0899.00",
+   "CIP Code": 13.0201
+ },
+ {
+   "Name": "Biochemistry",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "37637 - BIOCHM-BS",
+   "HEGIS Code": "1905.00",
+   "CIP Code": 26.0202
+ },
+ {
+   "Name": "Biology",
+   "Degree": "BSMS - Bachelor of Science/Master of Science",
+   "Type": "Major",
+   "NYSED Code": "33426 - BIO4-BSMS",
+   "HEGIS Code": "0401.00",
+   "CIP Code": 26.0101
+ },
+ {
+   "Name": "Biology",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 26.0101
+ },
+ {
+   "Name": "Biology",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "02128 - BIOL-BS",
+   "HEGIS Code": "0401.00",
+   "CIP Code": 26.0101
+ },
+ {
+   "Name": "Biology in Secondary School Education",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 13.1322
+ },
+ {
+   "Name": "Biology Teacher, Grades 7-12",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "25918 - BIOL712-BS",
+   "HEGIS Code": "0401.00",
+   "CIP Code": 13.1322
+ },
+ {
+   "Name": "Biology/Optometry",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "29144 - BIOPTMY-BS",
+   "HEGIS Code": "0401.00",
+   "CIP Code": 26.0101
+ },
+ {
+   "Name": "Biomedical Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "27176 - BME-BE",
+   "HEGIS Code": "0905.00",
+   "CIP Code": 14.0501
+ },
+ {
+   "Name": "Biomedical Science",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "77808 - BMSC-BS",
+   "HEGIS Code": "0499.00",
+   "CIP Code": 26.0102
+ },
+ {
+   "Name": "Biotechnology",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "36008 - BTBCC-BS",
+   "HEGIS Code": "0499.00",
+   "CIP Code": 26.1201
+ },
+ {
+   "Name": "Biotechnology",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "35441 - BTECH-BS",
+   "HEGIS Code": "0499.00",
+   "CIP Code": 26.1201
+ },
+ {
+   "Name": "Chemical Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "30908 - CHEENGR-AS",
+   "HEGIS Code": "0906.00",
+   "CIP Code": 14.0701
+ },
+ {
+   "Name": "Chemical Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "02178 - CHEME-BE",
+   "HEGIS Code": "0906.00",
+   "CIP Code": 14.0701
+ },
+ {
+   "Name": "Chemistry",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "02257 - CHEM-BS",
+   "HEGIS Code": "1905.00",
+   "CIP Code": 40.0501
+ },
+ {
+   "Name": "Chemistry",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 40.0501
+ },
+ {
+   "Name": "Chemistry",
+   "Degree": "BSMS - Bachelor of Science/Master of Science",
+   "Type": "Major",
+   "NYSED Code": "34757 - CHEM4-BSMS",
+   "HEGIS Code": "1905.00",
+   "CIP Code": 40.0501
+ },
+ {
+   "Name": "Chemistry Secondary School Education",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 13.1323
+ },
+ {
+   "Name": "Chemistry Teacher, Grades 7-12",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "25916 - CHEM712-BS",
+   "HEGIS Code": "1905.01",
+   "CIP Code": 13.1323
+ },
+ {
+   "Name": "Childhood Education",
+   "Degree": "BSED - Bachelor of Science in Education",
+   "Type": "Major",
+   "NYSED Code": "28378 - EDU-AA",
+   "HEGIS Code": "0802.00",
+   "CIP Code": 13.1202
+ },
+ {
+   "Name": "Childhood Education",
+   "Degree": "BSED - Bachelor of Science in Education",
+   "Type": "Major",
+   "NYSED Code": "25922 - CHLDU-BSED",
+   "HEGIS Code": "0802.00",
+   "CIP Code": 13.1202
+ },
+ {
+   "Name": "Cinema Studies",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 50.0601
+ },
+ {
+   "Name": "Civil Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "29992 - ENGN-AS",
+   "HEGIS Code": "0908.00",
+   "CIP Code": 14.0801
+ },
+ {
+   "Name": "Civil Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "02179 - CVLER-BE",
+   "HEGIS Code": "0908.00",
+   "CIP Code": 14.0801
+ },
+ {
+   "Name": "Civil Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "29493 - CVLEH-BE",
+   "HEGIS Code": "0908.00",
+   "CIP Code": 14.0801
+ },
+ {
+   "Name": "Classical Studies",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 50.0903
+ },
+ {
+   "Name": "Communications",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "80246 - COMM-BA",
+   "HEGIS Code": "0601.00",
+   "CIP Code": 9.01
+ },
+ {
+   "Name": "Community Change Studies",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 44.0201
+ },
+ {
+   "Name": "Comparative Literature",
+   "Degree": "BA - Bachelor of Arts",
+   "Type": "Major",
+   "NYSED Code": "02223 - COMPLIT-BA",
+   "HEGIS Code": "1503.00",
+   "CIP Code": 16.0104
+ },
+ {
+   "Name": "Computer Engineering",
+   "Degree": "BE - Bachelor of Engineering",
+   "Type": "Major",
+   "NYSED Code": "22796 - CMPEGR-BE",
+   "HEGIS Code": "0999.00",
+   "CIP Code": 14.0901
+ },
+ {
+   "Name": "Computer Science",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "02135 - CMPSC-BS",
+   "HEGIS Code": "0701.00",
+   "CIP Code": 11.0701
+ },
+ {
+   "Name": "Computer Science",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 11.0701
+ },
+ {
+   "Name": "Early Childhood Education (Center for Worker Education)",
+   "Degree": "BS - Bachelor of Science",
+   "Type": "Major",
+   "NYSED Code": "25914 - ECEU-BS",
+   "HEGIS Code": "0823.00",
+   "CIP Code": 13.121
+ },
+ {
+   "Name": "Earth And Atmospheric Science",
+   "Degree": "-",
+   "Type": "Minor",
+   "NYSED Code": "-",
+   "HEGIS Code": "-",
+   "CIP Code": 40.0601
+ }
+]
