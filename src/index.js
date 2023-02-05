@@ -1,11 +1,12 @@
-const emails = require("./emailDomains.json")
-const ccnyCourses = require("./ccnyCourses.json")
-const ccnyMajors = require("./ccnyMajors.json")
-const ccnyClubs = require("./ccnyClubs.json")
-const firstnames = require("./firstNames.json")
-const lastNames = require("./lastNames.json")
-const universitiesAndColleges = require("./universitiesAndColleges.json")
-const listOfInterests = require("./interests.json")
+const emails = require("../data/emailDomains.json")
+const ccnyCourses = require("../data/ccnyCourses.json")
+const ccnyMajors = require("../data/ccnyMajors.json")
+const ccnyClubs = require("../data/ccnyClubs.json")
+const firstnames = require("../data/firstNames.json")
+const lastNames = require("../data/lastNames.json")
+const universitiesAndColleges = require("../data/universitiesAndColleges.json")
+const listOfInterests = require("../data/interests.json")
+const {sampleWithoutReplacement, mapObjectToProperty, chooseWithProbabilityMap} = require("./helpers.js")
 
 const createRandomUser = () => {
     const firstname = firstnames[Math.floor(Math.random()*firstnames.length)]
@@ -47,53 +48,7 @@ const createNRandomUsers = (n) => {
     return res
 }
 
-const sampleWithoutReplacement = (numberOfSamples, list) => {
-    copyList = [...list]
-    // Shuffle List randomly n times
-    // Return first numberOfSamples elements
-    if (numberOfSamples === 0) {
-        return []
-    }
-
-    for (let i = 0; i < copyList.length; i++) {
-        randI = Math.floor(Math.random()*copyList.length)
-        randJ = Math.floor(Math.random()*copyList.length)
-        t = copyList[randJ]
-        copyList[randJ] = copyList[randI]
-        copyList[randI] = t
-    }
-    return copyList.slice(0, numberOfSamples)
-}
-const mapObjectToProperty = (list, property) => {
-    return list.map((val) => {
-        return val[property]
-    })
-}
-
-const chooseWithProbabilityMap = (pMap) => {
-    var probabilityArray = Object.keys(pMap).map((key) => [String(key), Number(pMap[key].slice(0,pMap[key].length-1))])
-    const compare = (a, b) => {
-        aProb = a[1]
-        bProb = b[1]
-        if ( aProb < bProb ){
-            return -1;
-          }
-          if ( aProb > bProb ){
-            return 1;
-          }
-          return 0;
-    }
-    sorted = probabilityArray.sort(compare)
-    rand = Math.floor(Math.random()*101)
-    for (let i = 0; i < sorted.length; i++) {
-        if (sorted[i][1] > rand) {
-            return sorted[i][0]
-        }
-    }
-    return sorted[sorted.length-1][0]
-}
-
-console.log(createNRandomUsers(5))
+console.log(createNRandomUsers(10))
 
 module.exports = {
     createRandomUser,
