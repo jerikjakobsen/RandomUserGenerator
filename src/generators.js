@@ -1,6 +1,6 @@
 const emails = require("../data/emailDomains.json")
 const ccnyCourses = require("../data/ccnyCourses.json")
-const ccnyMajors = require("../data/ccnyMajors.json")
+const ccnyMajors = require("../data/ccnymajors.json")
 const ccnyClubs = require("../data/ccnyClubs.json")
 const firstnames = require("../data/firstNames.json")
 const lastNames = require("../data/lastNames.json")
